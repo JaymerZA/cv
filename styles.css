@@ -1,0 +1,24 @@
+/******************************** TAG SELECTORS ***************************/
+
+h1 {
+  color: red;
+  font: italic 8em "Fira Sans", serif;
+}
+
+img {
+background-color: blue;
+height: 160px
+
+}
+
+/******************************* CLASS SELECTORS *****************************/
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+/******************************* ID SELECTORS *****************************/
